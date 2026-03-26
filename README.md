@@ -16,4 +16,4 @@ Includes Exploratory Data Analysis (EDA), feature engineering, and Explainable A
 - Jupyter Notebook
 
 ## Contact
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+LinkedIn: https://www.linkedin.com/in/soheil-esteki-b670901a4/
