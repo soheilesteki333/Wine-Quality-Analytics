@@ -4,6 +4,8 @@
 Predictive modeling for wine quality using classification & regression with Python & ML.  
 Includes Exploratory Data Analysis (EDA), feature engineering, and Explainable AI insights.
 
+Please open the Wine Quality 1 for the Descriptive & EDA and then 2 for Predictive modeling and explanatory AI.
+
 ## Features
 - Data cleaning & preprocessing
 - EDA
